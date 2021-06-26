@@ -1,0 +1,5 @@
+name: Proxy
+version: "1.0"
+author: Luis
+main: de.luuuuuis.proxy.Proxy
+prefix: Proxy
